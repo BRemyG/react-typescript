@@ -67,6 +67,17 @@ export default function Index() {
             <SignIn/>
           </div>
 
+          <div>
+            <h3> Abstract </h3>
+            <p>Modern software development encompasses a dynamic and multifaceted process, driven by rapidly evolving technologies and methodologies. Central to this evolution is the adoption of Agile methodologies, which emphasize iterative progress, flexibility, and collaboration. Agile frameworks, such as Scrum and Kanban, enable development teams to adapt quickly to changing requirements and deliver high-quality software through continuous feedback and incremental improvements.</p>
+            <p>A key component of contemporary software development is the integration of DevOps practices, which bridge the gap between development and operations. DevOps fosters a culture of collaboration and shared responsibility, promoting practices such as continuous integration (CI) and continuous deployment (CD). These practices automate the software delivery pipeline, enhancing efficiency, reducing errors, and accelerating time to market.</p>
+            <p>Microservices architecture has emerged as a dominant paradigm, replacing monolithic structures with modular, independently deployable services. This approach enhances scalability, maintainability, and resilience by allowing services to be developed, deployed, and scaled independently. Containerization, facilitated by tools like Docker and orchestration platforms like Kubernetes, further supports microservices by providing consistent environments across development, testing, and production.</p>
+            <p>Cloud computing has revolutionized software development by offering scalable, on-demand resources and services. Platforms such as Amazon Web Services (AWS), Microsoft Azure, and Google Cloud Platform (GCP) enable developers to deploy applications globally, scale effortlessly, and leverage a wide array of managed services, from databases to machine learning.</p>
+            <p>The rise of front-end frameworks like React, Angular, and Vue.js has transformed user interface development, enabling the creation of dynamic, responsive, and performant web applications. Coupled with back-end technologies such as Node.js, these frameworks facilitate full-stack development, allowing for seamless interaction between client and server.</p>
+            <p>Security and compliance are integral to modern software development, with practices such as secure coding, automated testing, and compliance with regulations like GDPR and HIPAA ensuring robust protection of data and systems.</p>
+            <p>Modern software development is characterized by agility, collaboration, modularity, automation, and a strong focus on security and user experience. This dynamic landscape continues to evolve, driven by innovation and the relentless pursuit of efficiency and excellence.</p>
+          </div>
+
           <div id="middle-content">
             <div id="learning-materials" className="rounded shadow">
               <h2>Learning materials</h2>
